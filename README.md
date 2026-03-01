@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" width="50" height="50" alt="Makefile" />
+        <img src="https://images.icon-icons.com/2107/PNG/512/file_type_makefile_icon_130408.png" width="50" height="50" alt="Makefile" />
       </a>
       <br>Makefile
     </td>
