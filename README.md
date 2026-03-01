@@ -2,8 +2,7 @@
   <tr>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://img.icons8.com/color/50/c-programming.png
-" width="50" height="50" alt="C" />
+        <img src="https://img.icons8.com/color/48/c-programming.png" width="50" height="50" alt="C" />
       </a>
       <br>C
     </td>
@@ -21,8 +20,7 @@
     </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_makefile.svg
-" width="50" height="50" alt="Makefile" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Official_gnu.svg" width="50" height="50" alt="Makefile" />
       </a>
       <br>Makefile
     </td>
