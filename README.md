@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋🏻, I'm Nahuel Alesso</h1>
 
 <p align='center'>
-  <strong>Full-Stack Developer | Software Engineering Student at 42 Barcelona</strong>
+  <strong>Software Engineer | Full-Stack Web Developer | C • C++ • JavaScript • React • Node.js • PostgreSQL</strong>
 </p>
 
 <p align='justify'>
@@ -39,7 +39,7 @@ I thrive in team environments 🤝 and consider myself a continuous learner. I a
     </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Makefile" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Makefile" />
       </a>
       <br>Makefile
     </td>
@@ -114,13 +114,13 @@ I thrive in team environments 🤝 and consider myself a continuous learner. I a
     </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="Postgresql" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/2/29/PostgreSQL_logo.svg" width="46" height="50" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="50" height="50" alt="Sequelize" />
+        <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="46" height="50" alt="Sequelize" />
       </a>
       <br>Sequelize
     </td>
