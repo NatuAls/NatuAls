@@ -1,3 +1,22 @@
+<h1 align="center">Hi! 👋🏻, I'm Nahuel Alesso</h1>
+
+<p align='center'>
+  <strong>Software Engineer | Full-Stack Web Developer | C • C++ • JavaScript • React • Node.js • PostgreSQL</strong>
+</p>
+
+<p align='justify'>
+I'm a developer originally from Argentina, currently based in Barcelona 🇪🇸 (EU work eligible 🇦🇷🇮🇹). I share my home with my two cute kitties 🐱 and a lifelong passion for technology and video games, which initially sparked my love for programming.
+<br><br>
+Currently, I am advancing through Milestone 05 at <strong>42 Barcelona</strong>, where I tackle complex algorithmic challenges, system architecture, and low-level programming using <strong>C and C++</strong>. I combine this rigorous systems background with strong <strong>Full-Stack Web Development</strong> skills (React, Node.js, PostgreSQL) to build innovative and scalable solutions 💻.
+<br><br>
+I thrive in team environments 🤝 and consider myself a continuous learner. I am actively looking for opportunities to apply my technical stack in challenging, dynamic projects and drive them to success 🚀.
+</p>
+
+---
+<br>
+<h3 align='center'><strong>Languages & Tools:</strong></h3>
+<br>
+
 <table align="center">
   <tr>
     <td align="center" width="100">
