@@ -33,6 +33,21 @@ I thrive in team environments 🤝 and consider myself a continuous learner. I a
     </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="100">
+      <a href="https://github.com/NatuAls">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Makefile" />
+      </a>
+      <br>Makefile
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <a href="https://github.com/NatuAls">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
       </a>
       <br>Linux
@@ -43,9 +58,27 @@ I thrive in team environments 🤝 and consider myself a continuous learner. I a
       </a>
       <br>Docker
     </td>
+    <td align="center" width="100">
+      <a href="https://github.com/NatuAls">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <a href="https://github.com/NatuAls">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
   </tr>
 
   <tr>
+    <td align="center" width="100">
+      <a href="https://github.com/NatuAls">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
+      </a>
+      <br>HTML / CSS
+    </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" alt="JavaScript" />
@@ -63,12 +96,6 @@ I thrive in team environments 🤝 and consider myself a continuous learner. I a
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" />
       </a>
       <br>Redux
-    </td>
-    <td align="center" width="100">
-      <a href="https://github.com/NatuAls">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
-      </a>
-      <br>HTML / CSS
     </td>
   </tr>
   
@@ -93,10 +120,9 @@ I thrive in team environments 🤝 and consider myself a continuous learner. I a
     </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width="50" height="50" alt="Sequelize" />
       </a>
-      <br>Git
+      <br>Sequelize
     </td>
   </tr>
 </table>
-
