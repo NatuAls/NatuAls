@@ -2,7 +2,8 @@
   <tr>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C" />
+        <img src="https://img.icons8.com/color/50/c-programming.png
+" width="50" height="50" alt="C" />
       </a>
       <br>C
     </td>
@@ -20,7 +21,8 @@
     </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Makefile" />
+        <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_makefile.svg
+" width="50" height="50" alt="Makefile" />
       </a>
       <br>Makefile
     </td>
