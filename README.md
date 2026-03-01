@@ -2,7 +2,7 @@
   <tr>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://img.icons8.com/color/48/c-programming.png" width="50" height="50" alt="C" />
+        <img src="https://img.icons8.com/color/50/c-programming.png" width="50" height="50" alt="C" />
       </a>
       <br>C
     </td>
