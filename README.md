@@ -16,7 +16,6 @@ I thrive in team environments 🤝 and consider myself a continuous learner. I a
 <br>
 <h3 align='center'><strong>Languages & Tools:</strong></h3>
 <br>
-
 <table align="center">
   <tr>
     <td align="center" width="100">
