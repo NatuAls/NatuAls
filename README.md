@@ -39,7 +39,7 @@ I thrive in team environments 🤝 and consider myself a continuous learner. I a
     </td>
     <td align="center" width="100">
       <a href="https://github.com/NatuAls">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Makefile" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Makefile" />
       </a>
       <br>Makefile
     </td>
